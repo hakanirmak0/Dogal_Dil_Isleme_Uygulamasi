@@ -1,2 +1,2 @@
 # Doğal Dil İşleme Uygulaması - Haber Sınıflandırma
-
+Veriler https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset/data# adresinden alındı. Adresteki dosyada 2 tane csv dosyası bulunuyor. Bunlardan bir yalan olan haberleri diğeri gerçek olan haberleri içeriyor. 23481 yalan haber, 21417 gerçek haber bulunuyor. Bu veri setini kullanarak doğal dil işleme uygulaması yaptım. Veri setinde normalde 4 sütun bulunuyor. Ben bu sütunlardan yalnızca text sütununu kullanarak bir sınıflandırma çalışması yaptım. Bu çalışma kapsamında makine öğrenmesi algoritmalarından Decision Tree, Lojistik Regresyon, K-NN ve Random Forest algoritmalarını kullandım. En yüksek doğruluk oranını yaklaşık %99.62 doğruluk oranı ile Decission Tree algoritması ile yakalamayı başardım.
